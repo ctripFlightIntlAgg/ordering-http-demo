@@ -1,0 +1,22 @@
+{
+  "ResponseHeader": {
+    "MessageHeader": {
+      "SourceAppID": "0",
+      "TransactionID": "5e65bdb5ee1a1",
+      "ChannelID": "Affiliate",
+      "SubChannelID": 106241,
+      "CustomerID": "M460899731"
+    },
+    "ServerIP": "10.61.74.19",
+    "ReturnCode": 0
+  },
+  "OrderID": 12380608565,
+  "ExternalNO": "a6b55157-b282-447c-839e-1ac8994466e0",
+  "AutoReservSnNoList": [
+    "9a3e0546592546e9"
+  ],
+  "AmountDetail": "1:14492.000000,2:0.000000,3:0.000000,4:0.000000",
+  "PayExpiryTime": 30,
+  "PaymentDeadline": "2020-03-09 12:23:26",
+  "Version": 0
+}

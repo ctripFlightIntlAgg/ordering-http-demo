@@ -1,0 +1,30 @@
+{
+  "RequestHeader": {
+    "MessageHeader": {
+      "SourceAppID": "11111111",
+      "TransactionID": "a226dfdb-bdd8-4aa3-ae4c-de7cba43904e",
+      "ChannelID": "Affiliate",
+      "SubChannelID": 1111111,
+      "CustomerID": "UID"
+    },
+    "LoggingLevel": 0
+  },
+  "Action": "SubmitOrder",
+  "OrderID": 12380608565,
+  "SearchCriteriaToken": "KLUv_QBQKQIACwgBEMyABhiTJCCAgPbbjS4MEwgBEAEYARQYAyABKA0wgb4GQygAMAA4AEAASABQAIABAJABAKgBALgBAERIAFAAYNJG",
+  "RouteSearchToken": "800000000iH6G06F02IbJH800000000020000000000W01FDx510G002QeHgG02JmG8000o-qLDD1",
+  "TravelerInfoList": [],
+  "PaymentInfo": {
+    "PayInfoList": [
+      {
+        "PayType": "ALIAN",
+        "Amount": 265
+      }
+    ],
+    "CCardPayFee": 0
+  },
+  "XProductList": [],
+  "UseCouponInfoList": [],
+  "UsePromotionInfoList": [],
+  "PackageAttachInfoList": []
+}

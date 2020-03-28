@@ -1,0 +1,115 @@
+{
+  "RequestHeader": {
+    "MessageHeader": {
+      "SourceAppID": "11111111",
+      "TransactionID": "a226dfdb-bdd8-4aa3-ae4c-de7cba43904eabc",
+      "ChannelID": "Affiliate",
+      "SubChannelID": 1111111,
+      "CustomerID": "User ID"
+    },
+    "LoggingLevel": 0
+  },
+  "Action": "CreateOrder",
+  "OrderID": 0,
+  "SearchCriteriaToken": "KLUv_QBQKQIACwgBEMyABhiTJCCAgPbbjS4MEwgBEAEYARQYAyABKA0wgb4GQygAMAA4AEAASABQAIABAJABAKgBALgBAERIAFAAYNJGABC",
+  "RouteSearchToken": "800000000iH6G06F02IbJH800000000020000000000W01FDx510G002QeHgG02JmG8000o-qLDD1ABC",
+  "QTEInfo": {
+    "SalePrice": 240,
+    "Tax": 25
+  },
+  "TravelerInfoList": [
+    {
+      "Gender": "Female",
+      "IDCardList": [
+        {
+          "IDCardType": "PASSPORT",
+          "IDCardNo": "NO123456789",
+          "CardTimeLimit": "2022-10-29 00:00:00",
+          "PUIndexes": "0",
+          "PersonName": "LastName1/FirsName1"
+        }
+      ],
+      "TravelerCategoryCode": "ADT",
+      "Birthday": "1980-05-20",
+      "Nationality": "CN",
+      "FFPNoList": [],
+      "Mobilephone": "13011111111",
+      "CountryCode": "86",
+      "SaveCommonTraveler": false,
+      "Email": "123456789@qq.com"
+    },
+    {
+      "Gender": "Male",
+      "IDCardList": [
+        {
+          "IDCardType": "PASSPORT",
+          "IDCardNo": "NO123456789",
+          "CardTimeLimit": "2022-10-29 00:00:00",
+          "PUIndexes": "0",
+          "PersonName": "LastName2/FirsName2"
+        }
+      ],
+      "TravelerCategoryCode": "ADT",
+      "Birthday": "1975-08-02",
+      "Nationality": "CN",
+      "FFPNoList": [],
+      "Mobilephone": "13073579648",
+      "CountryCode": "86",
+      "SaveCommonTraveler": false,
+      "Email": "65463565@qq.com"
+    },
+    {
+      "Gender": "Male",
+      "IDCardList": [
+        {
+          "IDCardType": "PASSPORT",
+          "IDCardNo": "NO12ffd3",
+          "CardTimeLimit": "2022-10-29 00:00:00",
+          "PUIndexes": "0",
+          "PersonName": "LastName3/FirsName3"
+        }
+      ],
+      "TravelerCategoryCode": "CHD",
+      "Birthday": "2000-10-15",
+      "Nationality": "CN",
+      "FFPNoList": [],
+      "Mobilephone": "13075654635",
+      "CountryCode": "86",
+      "SaveCommonTraveler": false,
+      "Email": "862345756945@qq.com"
+    }
+  ],
+  "ContactInfo": {
+    "PersonName": "LastName/FirstName",
+    "MobilePhone": "15537299349",
+    "IDCard": {
+      "IDCardType": "PASSPORT",
+      "IDCardNo": "NO12376653",
+      "CardTimeLimit": "2022-10-29 00:00:00"
+    },
+    "Gender": "Male"
+  },
+  "DeliveryInfo": {
+    "DeliveryType": "PJN"
+  },
+  "OrderMiscInfo": {
+    "NeedQuickBooking": false,
+    "LocaleID": 0,
+    "SourceURL": "your website url",
+    "InvoiceList": [],
+    "AffiliateInfo": {
+      "AllianceID": 1111111,
+      "SID": 1111111
+    },
+    "VersionFlag": 0,
+    "MerchantID": 0,
+    "BookingValidationTokenNumber": "token obtained from verify service",
+    "ABTestInfo": [],
+    "ExtendInfo": [],
+    "MemberType": 0
+  },
+  "XProductList": [],
+  "UseCouponInfoList": [],
+  "UsePromotionInfoList": [],
+  "PackageAttachInfoList": []
+}

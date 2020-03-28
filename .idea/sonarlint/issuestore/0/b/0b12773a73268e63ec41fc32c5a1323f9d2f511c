@@ -1,0 +1,11 @@
+
+Nsquid:S14813"0Remove this unused "submitOrder" local variable.(•¹ä–8†¯ôğ‹.
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Í­“•8Í¨±ì‹.
+Fsquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Í¨±ì‹.
+Asquid:S11485"#Use a logger to log this exception.(Ç’Çê8Í¨±ì‹.
+isquid:S18542"FRemove this useless assignment to local variable "submitOrderRequest".(¡ŸŠşûÿÿÿÿ8èòğ‹.
+Zsquid:S14812"7Remove this unused "submitOrderRequest" local variable.(¡ŸŠşûÿÿÿÿ8èòğ‹.
+osquid:S22591"QA "NullPointerException" could be thrown; "createOrderResponse" is nullable here.(É¶ÔÑ8èòğ‹.
+]squid:S18543"?Remove this useless assignment to local variable "submitOrder".(•¹ä–8†¯ôğ‹.
+squid:S1450"^Remove the "appTokenManager" field and declare it as a local variable in the relevant methods.(ÈÄæøÿÿÿÿ8Í¨±ì‹.

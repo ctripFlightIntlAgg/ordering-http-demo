@@ -1,0 +1,7 @@
+
+^squid:S00112Q"FDefine and throw a dedicated exception instead of using a generic one.(çó´¡
+csquid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(Ý“«ñûÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(âð¬íøÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(ðˆ¿ù
+5squid:S1700"Rename field "httpClient"(æ¬ÖÉüÿÿÿÿ
+Csquid:S1602T",Remove useless curly braces around statement(ë¡–Æ
